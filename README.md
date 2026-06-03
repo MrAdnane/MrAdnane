@@ -110,7 +110,13 @@ $ git log --author="MrAdnane" --oneline --format="%s"
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MrAdnane&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0A84FF&text_color=c9d1d9&icon_color=0A84FF)](https://github.com/MrAdnane/Portfolio)
+<a href="https://github.com/MrAdnane/Portfolio">
+  <img src="https://img.shields.io/badge/📁%20Portfolio-View%20Repository-0A84FF?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Repo"/>
+</a>
+&nbsp;
+<a href="https://mradnane.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Site-00c6ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+</a>
 
 </div>
 
